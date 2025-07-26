@@ -4,7 +4,7 @@ A simple React app that fetches live weather data using OpenWeatherMap API. Ente
 
 ## 📸 Screenshot
 
-![Weather App Screenshot](./Weather-app.jpg)
+![Weather App](./src/assets/Weather_app.jpg)
 
 ## 🚀 Features
 - Live weather search by city
